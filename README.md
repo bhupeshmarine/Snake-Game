@@ -27,4 +27,4 @@ WINDOW_WIDTH and WINDOW_HEIGHT: The width and height of the game window, in pixe
 SNAKE_SPEED: The speed of the snake.
 FOOD_COUNT: The number of food items on the screen.
 FOOD_POINTS: The number of points you earn for eating a food item.
-You can also modify the images used in the game by replacing the .png files in the images folder.
+You can also modify the images used in the game by replacing the .png files in the images folder..
